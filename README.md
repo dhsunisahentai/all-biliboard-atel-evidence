@@ -10,4 +10,6 @@
 **我并不会害怕我的 GitHub Repo 遭到 DMCA , 如果遭到 DMCA 我将转战 GitLab, CodeBerg 等其他平台，但我并不会在国内代码托管平台建立仓库，因为更容易被 DMCA**
 <br>
 [The Truth | 真相](evidence.md)
+[了解更多](https://www.bilibili.com/video/BV1U45X6vEmm)
+<br>
 [Telegram 频道](https://t.me/yesbiliboardatel)
