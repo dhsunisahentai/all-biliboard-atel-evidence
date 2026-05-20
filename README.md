@@ -11,7 +11,7 @@
 <br>
 **我并不会害怕我的 GitHub Repo 遭到 DMCA , 如果遭到 DMCA 我将转战 GitLab, CodeBerg 等其他平台，但我并不会在国内代码托管平台建立仓库，因为更容易被 DMCA**
 <br>
-**同时，这个仓库已被whitegiveplane备份以备不测：[查看备份](https://share.whitegiveplane.me/published/all-biliboard-atel-evidence/)**
+**同时，这个仓库已被whitegiveplane备份以备不测：**[查看备份](https://share.whitegiveplane.me/published/all-biliboard-atel-evidence/)
 <br>
 [Telegram 频道](https://t.me/yesbiliboardatel)
 ## Credits:
