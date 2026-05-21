@@ -13,6 +13,7 @@
 <br>
 **同时，这个仓库已被whitegiveplane备份以备不测：**[查看备份](https://share.whitegiveplane.me/published/all-biliboard-atel-evidence/)
 <br>
+[Shout Out to 浅韵低吟Sempre](shoutouttoqydy.md)
 [Telegram 频道](https://t.me/yesbiliboardatel)
 ## Credits:
 •[whitegiveplane](https://space.bilibili.com/475787895) | [GitHub](https://github.com/whitegiveplane)
